@@ -114,6 +114,7 @@ plt.xlabel("False Positive Rate")
 plt.ylabel("True Positive Rate")
 plt.title("ROC Curve")
 plt.legend()
+plt.savefig("imgs/ROC_curve.png")
 plt.show()
 
 print("\n📊 Classification Report:")
