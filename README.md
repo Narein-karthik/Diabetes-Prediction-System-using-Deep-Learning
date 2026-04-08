@@ -26,7 +26,6 @@ An end-to-end machine learning project that predicts the likelihood of diabetes 
 ## 📈 ROC Curve
 
 ![ROC Curve](images/roc_curve.png)
-
 ---
 
 ## 🧪 Tech Stack
